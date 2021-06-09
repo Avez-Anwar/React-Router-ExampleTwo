@@ -1,0 +1,16 @@
+.home {
+  background-color: rgb(135, 191, 212);
+  height: 50vh;
+  width: 70vw;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+.home > h1 {
+  top: 40%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
